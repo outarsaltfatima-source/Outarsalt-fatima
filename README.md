@@ -1,5 +1,6 @@
 # Fatima Outarsalt | Expert SEO Technique & Architecte Sémantique
 
+<img src="path/to/fatima_photo.jpg" alt="Fatima Outarsalt Professional Photo" width="150" height="150" align="right">
 Passionnée par le référencement naturel axé sur la data, la structure et la sémantique. J'optimise la visibilité organique des sites web en combinant des stratégies de maillage interne avancées (PageRank, cocon sémantique) et une maîtrise technique rigoureuse (crawling, tracking, automatisation des processus).
 
 ---
