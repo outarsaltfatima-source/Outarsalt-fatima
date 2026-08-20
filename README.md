@@ -51,3 +51,4 @@ Passionnée par le référencement naturel axé sur la data, la structure et la 
 ##  Me Contacter
 * **LinkedIn :** www.linkedin.com/in/fatima-outarsalt
 * **Email :** outarsaltfatima@gmail.com
+* **Téléphone :** 0760227910
